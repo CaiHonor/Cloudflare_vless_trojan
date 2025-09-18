@@ -1,4 +1,0 @@
-name = "cai-vle-tro"
-main = "nat64套壳版混淆.js"
-compatibility_date = "2025-09-07"
-keep_vars = true
