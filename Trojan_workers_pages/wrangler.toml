@@ -1,0 +1,4 @@
+name = "cai-tro-vle"
+main = "_worker混淆.js"
+compatibility_date = "2025-09-07"
+keep_vars = true
